@@ -1,0 +1,16 @@
+#nav {
+  background-color: darkgoldenrod;
+  color: white;
+  padding: 10px;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #f4f4f4;
+}
+
+.container {
+  padding: 1em;
+}
